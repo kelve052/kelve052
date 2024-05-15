@@ -1,4 +1,5 @@
-# Olá eu sou <span style="color: #7300EB">KELVE OLIVEIRA</span> 🖐️ [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelve-oliveira-63247a257/)
+# Olá eu sou <span style="color: #7300EB">KELVE OLIVEIRA</span> 🖐️
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelve-oliveira-63247a257/)
 
 ## Tecnologias que possuo conhecimento 🤖
 
@@ -16,10 +17,9 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
   
 </div>
+<hr style="margin: 0 0 100px 0">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kelve052&show_icons=true&theme=radical)
-
-<hr>
  <span style="color: #EBB938">
 <h2>Metodologiás Ágeis</h2>
 <li>Scrun</li>
